@@ -1,0 +1,9 @@
+pic2ani alpha
+
+Là một thư viện được phát triển nhằm tạo ra những hiệu ứng động trên hình ảnh tĩnh.
+pic2ani được viết bởi <Dũng Trần> sử dụng:
++ HTML
++ CSS
++ JQuery
++ Javascript
+
